@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DGM Tech Solutions"
 email: "damodhiran@gmail.com"
 description: "DGM Tech Solutions (Official)"
-baseurl: "/demoweb"
+baseurl: "/Zeppelin"
 url: "https://damodhiran.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
